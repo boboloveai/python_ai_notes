@@ -1,3 +1,7 @@
+# pip install transformers==4.36.0  gradio==5.23.2 
+# sudo apt update
+# sudo apt install ffmpeg -y
+
 import torch
 from transformers import pipeline
 import gradio as gr
